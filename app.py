@@ -6,7 +6,7 @@ HTML_PAGE = '''
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Colorful Math Calculators</title>
+    <title>Math Calculators</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <style>
         body { font-family: 'Segoe UI', Arial, sans-serif; background: linear-gradient(125deg, #35baf6 10%, #eef2f3 130%); min-height: 100vh; margin:0; color: #222; }
@@ -26,7 +26,7 @@ HTML_PAGE = '''
     </style>
 </head>
 <body>
-<h1>Colorful Math Calculators</h1>
+<h1>Math Calculators</h1>
 <nav>
   <a href="#" onclick="showCalc('linear');return false;">Linear Dependence</a>
   <a href="#" onclick="showCalc('diag');return false;">Diagonalization</a>
